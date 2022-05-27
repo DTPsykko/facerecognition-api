@@ -4,10 +4,9 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    // "start": "node server.js",
+    "start": "node server.js",
     "start:dev": "nodemon server.js",
     "dev": "react-scripts start",
-    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
